@@ -2,9 +2,9 @@
 # Welcome to Hacker Dojo!
 The Hacker Dojo is a community of engineers, artists, scientists, activists, entrepreneurs and other creative people centered around a co-working and social facility. Feel free to drop by and see for yourself what the Dojo is all about.
 
-# Workshop 1: Introduction to Deep Learning and OpenVINO
+# Workshop 1: Introduction to Python, Deep Learning and OpenVINO
 
-Welcome to the first workshop in our series on machine learning with OpenVINO! This workshop is designed to provide an introduction to Python, deep learning and OpenVINO, with a focus on understanding the different types of tasks that deep learning can be used for and how OpenVINO can help optimize models for different hardware architectures. By the end of this workshop, you should have a good understanding of what deep learning is, how it can be used in product development, and what types of tasks it can be used for. You'll also learn about OpenVINO, a toolkit that can help you optimize your deep learning models for different hardware platforms. We'll provide a combination of lectures, demos, and hands-on exercises to help you get up to speed with both deep learning and OpenVINO, so you'll be ready to tackle more advanced topics in the following workshops.
+Welcome to the first workshop in our series on Python and Deep Learning with OpenVINO! This workshop is designed to provide an introduction to Python, deep learning and OpenVINO, with a focus on understanding the different types of tasks that deep learning can be used for and how OpenVINO can help optimize models for different hardware architectures. By the end of this workshop, you should have a good understanding of what deep learning is, how it can be used in product development, and what types of tasks it can be used for. You'll also learn about OpenVINO, a toolkit that can help you optimize your deep learning models for different hardware platforms. We'll provide a combination of lectures, demos, and hands-on exercises to help you get up to speed with both deep learning and OpenVINO, so you'll be ready to tackle more advanced topics in the following workshops.
 
 # Overview of this session:
 
