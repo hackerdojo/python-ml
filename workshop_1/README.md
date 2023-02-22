@@ -32,4 +32,4 @@ During the workshop, we'll provide an overview of OpenVINO and explain how it ca
 
 - [This GitHub Repo.](https://github.com/hackerdojo/python-ml)
 - [Docker and how to set it up in your machine.](https://docs.docker.com/engine/install/)
-- [Our Docker images]()
+- [Tensorflow and Keras official tutorials (classification example was shown in the presentation)](https://github.com/tensorflow/docs/tree/master/site/en/tutorials/keras)
