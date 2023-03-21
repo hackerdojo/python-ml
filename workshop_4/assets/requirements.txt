@@ -1,0 +1,5 @@
+tensorflow_datasets
+keras-cv==0.4.1
+pycocotools
+openvino-dev
+luketils
