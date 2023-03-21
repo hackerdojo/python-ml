@@ -5,6 +5,7 @@ RUN pip install --upgrade pip
 RUN cd /assets && pip install -r requirements.txt
 RUN useradd -ms /bin/bash tensorflow
 USER tensorflow
+RUN echo "hello tf"
 RUN git clone https://github.com/hackerdojo/python-ml
 WORKDIR /tf/python-ml/workshop_4
 
