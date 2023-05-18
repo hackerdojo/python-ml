@@ -40,32 +40,7 @@ This workshop series is sponsored by Intel and we will be using OpenVINO through
 - Converting the model to the OpenVINO format and optimize it for different hardware architectures.
 - Deploying the optimized model and measuring its performance.
 
-### Workshop 5: Building Image Segmentation Models with OpenVINO
 
-- Introduction to image segmentation and its applications.
-- Build a simple image segmentation model using a pre-trained model in TensorFlow or PyTorch
-- Convert the model to the OpenVINO format and optimize it for different hardware architectures
-- Deploy the optimized model and measure its performance
-
-### Workshop 6: Model Conversion and Deployment with OpenVINO
-
-- Introduce the concept of model conversion and deployment
-- Discuss the different formats of deep learning models and how to convert between them
-- Show how to deploy models on different hardware architectures using OpenVINO
-- Introduce techniques such as quantization to optimize models for low-power devices
-
-### Workshop 7: Generative Models with OpenVINO
-
-- Introduce the concept of generative models
-- Discuss the different types of generative models, including generative adversarial networks (GANs) and variational autoencoders (VAEs)
-- Build a simple generative model using TensorFlow or PyTorch
-- Convert the model to the OpenVINO format and optimize it for different hardware architectures
-- Deploy the optimized model and measure its performance
-
-### Workshop 8: Advanced Topics in Model Optimization with OpenVINO
-
-- Discuss advanced topics such as neural architecture search, pruning, and knowledge distillation
-- Provide an overview of the latest research and applications in model optimization with OpenVINO.
 
 ## Thanks to Intel
 
